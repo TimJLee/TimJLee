@@ -1,4 +1,10 @@
-### Hi there 👋
+### 달리는 개발자
+
+![](https://visitor-badge.glitch.me/badge?page_id=TimJLee.TimJLee)
+
+<p align="center"> 📈 My GitHub Stats </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TimJLee&show_icons=true&theme=gotham" alt="TimJLee" />
 
 <!--
 **TimJLee/TimJLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
